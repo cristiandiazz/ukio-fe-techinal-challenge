@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Rua Augusta",
+    "city": "lisbon",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 1200,
+    "availability": "2024-03-02",
+    "imageUrl": "/image1.webp"
+  },
+  {
+    "name": "Avenida da Liberdade",
+    "city": "lisbon",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "price": 1500,
+    "availability": "2024-03-05",
+    "imageUrl": "/image2.webp"
+  },
+  {
+    "name": "Rua do Carmo",
+    "city": "lisbon",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "price": 1000,
+    "availability": "2024-03-10",
+    "imageUrl": "/image3.webp"
+  },
+  {
+    "name": "Rua da Bica",
+    "city": "lisbon",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 1300,
+    "availability": "2024-03-08",
+    "imageUrl": "/image4.webp"
+  },
+  {
+    "name": "Rua de São Paulo",
+    "city": "lisbon",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "price": 2600,
+    "availability": "2024-03-28",
+    "imageUrl": "/image5.webp"
+  },
+  {
+    "name": "Avenida Almirante Reis",
+    "city": "lisbon",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "price": 1100,
+    "availability": "2024-04-02",
+    "imageUrl": "/image6.webp"
+  },
+  {
+    "name": "Rua dos Douradores",
+    "city": "lisbon",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 1400,
+    "availability": "2024-04-03",
+    "imageUrl": "/image7.webp"
+  },
+  {
+    "name": "Rua de Santa Justa",
+    "city": "lisbon",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "price": 3700,
+    "availability": "2024-04-01",
+    "imageUrl": "/image8.webp"
+  },
+  {
+    "name": "Avenida da República",
+    "city": "lisbon",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "price": 2200,
+    "availability": "2024-04-02",
+    "imageUrl": "/image9.webp"
+  },
+  {
+    "name": "Travessa do Paraíso",
+    "city": "lisbon",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "price": 3350,
+    "availability": "2024-03-04",
+    "imageUrl": "/image10.webp"
+  },
+  {
+    "name": "Carrer de Urgell",
+    "city": "barcelona",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 1200,
+    "availability": "2024-02-24",
+    "imageUrl": "/image1.webp"
+  },
+  {
+    "name": "Passeig de Gràcia",
+    "city": "barcelona",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "price": 1500,
+    "availability": "2024-02-25",
+    "imageUrl": "/image2.webp"
+  },
+  {
+    "name": "Carrer de Provença",
+    "city": "barcelona",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "price": 1000,
+    "availability": "2024-02-26",
+    "imageUrl": "/image3.webp"
+  },
+  {
+    "name": "Carrer de Mallorca",
+    "city": "barcelona",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 1300,
+    "availability": "2024-02-27",
+    "imageUrl": "/image4.webp"
+  },
+  {
+    "name": "Carrer de Balmes",
+    "city": "barcelona",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "price": 1600,
+    "availability": "2024-02-28",
+    "imageUrl": "/image5.webp"
+  },
+  {
+    "name": "Avinguda Diagonal",
+    "city": "barcelona",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "price": 1100,
+    "availability": "2024-03-01",
+    "imageUrl": "/image6.webp"
+  },
+  {
+    "name": "Carrer de Sants",
+    "city": "barcelona",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 1400,
+    "availability": "2024-03-02",
+    "imageUrl": "/image7.webp"
+  },
+  {
+    "name": "Rambla de Catalunya",
+    "city": "barcelona",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "price": 3700,
+    "availability": "2024-03-13",
+    "imageUrl": "/image8.webp"
+  },
+  {
+    "name": "Carrer del Consell de Cent",
+    "city": "barcelona",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "price": 3200,
+    "availability": "2024-03-14",
+    "imageUrl": "/image9.webp"
+  },
+  {
+    "name": "Carrer de Viladomat",
+    "city": "barcelona",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "price": 2350,
+    "availability": "2024-03-04",
+    "imageUrl": "/image10.webp"
+  },
+  {
+    "name": "Gran Vía",
+    "city": "madrid",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 1200,
+    "availability": "2024-03-24",
+    "imageUrl": "/image1.webp"
+  },
+  {
+    "name": "Calle de Alcalá",
+    "city": "madrid",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "price": 1500,
+    "availability": "2024-02-25",
+    "imageUrl": "/image2.webp"
+  },
+  {
+    "name": "Paseo del Prado",
+    "city": "madrid",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "price": 1000,
+    "availability": "2024-02-26",
+    "imageUrl": "/image3.webp"
+  },
+  {
+    "name": "Calle de Serrano",
+    "city": "madrid",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 1300,
+    "availability": "2024-02-27",
+    "imageUrl": "/image4.webp"
+  },
+  {
+    "name": "Paseo de la Castellana",
+    "city": "madrid",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "price": 1600,
+    "availability": "2024-02-28",
+    "imageUrl": "/image5.webp"
+  },
+  {
+    "name": "Calle de Fuencarral",
+    "city": "madrid",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "price": 1100,
+    "availability": "2024-03-01",
+    "imageUrl": "/image6.webp"
+  },
+  {
+    "name": "Calle de Velázquez",
+    "city": "madrid",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 1400,
+    "availability": "2024-03-02",
+    "imageUrl": "/image7.webp"
+  },
+  {
+    "name": "Paseo de Recoletos",
+    "city": "madrid",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "price": 3700,
+    "availability": "2024-03-03",
+    "imageUrl": "/image8.webp"
+  },
+  {
+    "name": "Calle Mayor",
+    "city": "madrid",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "price": 1500,
+    "availability": "2024-03-04",
+    "imageUrl": "/image9.webp"
+  },
+  {
+    "name": "Calle Salamanca",
+    "city": "madrid",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "price": 2200,
+    "availability": "2024-03-04",
+    "imageUrl": "/image10.webp"
+  }
+]
