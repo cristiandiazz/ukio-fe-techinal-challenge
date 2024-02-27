@@ -2,12 +2,27 @@ import React from 'react'
 import Image from 'next/image'
 import { formatDate } from '../utils/date'
 
-const Card: React.FC<{ name: string, bedrooms: number, bathrooms: number, price: number, availability: string, imageUrl: string }> = ({ name, bedrooms, bathrooms, price, availability, imageUrl }) => {
+const Card: React.FC<{ 
+  name: string, 
+  bedrooms: number, 
+  bathrooms: number, 
+  price: number, 
+  availability: string, 
+  imageUrl: string 
+}> = ({ name, bedrooms, bathrooms, price, availability, imageUrl }) => {
   return (
     <div className="rounded-xl shadow-lg bg-[#fbf9f8] lg:max-w-md">
       <div className="sm:p-2 lg: p-4 flex flex-col">
         <div className="overflow-hidden">
-          <Image priority className="rounded-xl" width={400} height={400} alt="apartment-avatar" src={imageUrl} style={{ width: '100%', height: 'auto' }} />
+          <Image 
+            priority 
+            className="rounded-xl" 
+            width={400} 
+            height={400} 
+            alt="apartment-avatar" 
+            src={imageUrl} 
+            style={{ width: '100%', height: 'auto' }} 
+          />
         </div>
         <div className="flex flex-col gap-2 bg-white px-6 md:px-4 md:py-2 rounded-xl mt-2">
           <div>

@@ -50,6 +50,8 @@ The project structure is organized as follows:
 
 - Pagination: Implement pagination in the API to efficiently handle large datasets and improve performance.
 
+- ErrorHandling: We could improve the error from fetching apartments or filters with better feedback to the user.
+
 ## License
 - This project is licensed under the MIT License.
 

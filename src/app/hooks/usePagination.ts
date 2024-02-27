@@ -1,14 +1,13 @@
 import { useEffect, useState } from 'react'
 import type Apartment from '../interfaces/apartment'
 import { getCurrentPageItems, getTotalPages } from '../utils/pagination'
-import { PaginationResult } from '../interfaces/pagination'
+import PaginationResult from '../interfaces/pagination'
 
 interface PaginationProps {
   pageSize: number
 }
 
 const DEFAULT_PAGE = 1
-
 
 export default function usePagination(apartments: Apartment[], { pageSize }: PaginationProps): PaginationResult {
   const [currentPage, setCurrentPage] = useState(DEFAULT_PAGE)
