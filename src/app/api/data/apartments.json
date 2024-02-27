@@ -4,7 +4,7 @@
     "city": "lisbon",
     "bedrooms": 2,
     "bathrooms": 1,
-    "price": 1200,
+    "price": 1000,
     "availability": "2024-03-02",
     "imageUrl": "/image1.webp"
   },
@@ -31,7 +31,7 @@
     "city": "lisbon",
     "bedrooms": 2,
     "bathrooms": 1,
-    "price": 1300,
+    "price": 1000,
     "availability": "2024-03-08",
     "imageUrl": "/image4.webp"
   },
@@ -49,7 +49,7 @@
     "city": "lisbon",
     "bedrooms": 1,
     "bathrooms": 1,
-    "price": 1100,
+    "price": 3100,
     "availability": "2024-04-02",
     "imageUrl": "/image6.webp"
   },
@@ -58,7 +58,7 @@
     "city": "lisbon",
     "bedrooms": 2,
     "bathrooms": 1,
-    "price": 1400,
+    "price": 3400,
     "availability": "2024-04-03",
     "imageUrl": "/image7.webp"
   },
@@ -94,7 +94,7 @@
     "city": "barcelona",
     "bedrooms": 2,
     "bathrooms": 1,
-    "price": 1200,
+    "price": 1000,
     "availability": "2024-02-24",
     "imageUrl": "/image1.webp"
   },
@@ -121,7 +121,7 @@
     "city": "barcelona",
     "bedrooms": 2,
     "bathrooms": 1,
-    "price": 1300,
+    "price": 1000,
     "availability": "2024-02-27",
     "imageUrl": "/image4.webp"
   },
@@ -130,7 +130,7 @@
     "city": "barcelona",
     "bedrooms": 3,
     "bathrooms": 2,
-    "price": 1600,
+    "price": 3600,
     "availability": "2024-02-28",
     "imageUrl": "/image5.webp"
   },
@@ -148,7 +148,7 @@
     "city": "barcelona",
     "bedrooms": 2,
     "bathrooms": 1,
-    "price": 1400,
+    "price": 2400,
     "availability": "2024-03-02",
     "imageUrl": "/image7.webp"
   },
@@ -184,7 +184,7 @@
     "city": "madrid",
     "bedrooms": 2,
     "bathrooms": 1,
-    "price": 1200,
+    "price": 1000,
     "availability": "2024-03-24",
     "imageUrl": "/image1.webp"
   },
@@ -193,7 +193,7 @@
     "city": "madrid",
     "bedrooms": 3,
     "bathrooms": 2,
-    "price": 1500,
+    "price": 1000,
     "availability": "2024-02-25",
     "imageUrl": "/image2.webp"
   },
@@ -202,7 +202,7 @@
     "city": "madrid",
     "bedrooms": 1,
     "bathrooms": 1,
-    "price": 1000,
+    "price": 1700,
     "availability": "2024-02-26",
     "imageUrl": "/image3.webp"
   },
@@ -220,7 +220,7 @@
     "city": "madrid",
     "bedrooms": 3,
     "bathrooms": 2,
-    "price": 1600,
+    "price": 2600,
     "availability": "2024-02-28",
     "imageUrl": "/image5.webp"
   },
@@ -229,7 +229,7 @@
     "city": "madrid",
     "bedrooms": 1,
     "bathrooms": 1,
-    "price": 1100,
+    "price": 2900,
     "availability": "2024-03-01",
     "imageUrl": "/image6.webp"
   },
@@ -238,7 +238,7 @@
     "city": "madrid",
     "bedrooms": 2,
     "bathrooms": 1,
-    "price": 1400,
+    "price": 3400,
     "availability": "2024-03-02",
     "imageUrl": "/image7.webp"
   },
@@ -256,7 +256,7 @@
     "city": "madrid",
     "bedrooms": 1,
     "bathrooms": 1,
-    "price": 1500,
+    "price": 3500,
     "availability": "2024-03-04",
     "imageUrl": "/image9.webp"
   },

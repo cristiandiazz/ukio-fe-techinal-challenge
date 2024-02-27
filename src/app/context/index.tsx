@@ -9,6 +9,12 @@ interface ApartmentContextType {
   setSelectedCity: (city: string) => void
   nameFilter: string
   setNameFilter: (value: string) => void
+  selectedMaxPrice: number
+  setSelectedMaxPrice: (value: number) => void
+  selectedNextWeek: boolean
+  setSelectedNextWeek: (value: boolean) => void
+  selectedNextMonth: boolean
+  setSelectedNextMonth: (value: boolean) => void
 }
 
 const ApartmentContext = createContext<ApartmentContextType | undefined>(undefined)
@@ -27,6 +33,9 @@ export function ApartmentProvider({ children }: {
   const [allApartments, setAllApartments] = useState<Apartment[]>([])
   const [selectedCity, setSelectedCity] = useState<string>('')
   const [nameFilter, setNameFilter] = useState<string>('')
+  const [selectedMaxPrice, setSelectedMaxPrice] = useState<number>(0)
+  const [selectedNextWeek, setSelectedNextWeek] = useState<boolean>(false)
+  const [selectedNextMonth, setSelectedNextMonth] = useState<boolean>(false)
 
   useEffect(() => {
     fetch('/api/apartments')
@@ -43,6 +52,12 @@ export function ApartmentProvider({ children }: {
       setSelectedCity,
       nameFilter,
       setNameFilter,
+      selectedMaxPrice,
+      setSelectedMaxPrice,
+      selectedNextWeek,
+      setSelectedNextWeek,
+      selectedNextMonth,
+      setSelectedNextMonth,
     }}
     >
       {children}
